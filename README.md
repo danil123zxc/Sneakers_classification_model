@@ -1,10 +1,10 @@
 # Sneaker Classification using ResNet50
 This repository contains a TensorFlow/Keras project for classifying sneakers into 50 different classes using a fine-tuned ResNet50 model. The project includes data loading, visualization, data augmentation, model building, training, and evaluation.
 
-Dataset
+#Dataset
 The dataset used in this project is the "Sneakers Classification" dataset, which is expected to be located at /kaggle/input/sneakers-classification/sneakers-dataset/sneakers-dataset. The dataset statistics are provided in a dataset_stats.csv file, which is loaded and visualized to understand the class distribution.
 
-Project Structure
+#Project Structure
 The notebook is structured as follows:
 
 Import Libraries: Imports all necessary libraries for data manipulation, visualization, and model building.
@@ -19,7 +19,7 @@ Define Callbacks: Sets up callbacks for early stopping, model checkpointing, and
 Train the Model: Trains the model using the prepared training and validation datasets.
 Evaluating the Model: Evaluates the trained model on the test dataset and prints the test accuracy and loss.
 Classification Report: Generates a detailed classification report showing precision, recall, and f1-score for each class.
-Requirements
+#Requirements
 TensorFlow 2.x
 Keras
 Matplotlib
