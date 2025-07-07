@@ -31,13 +31,3 @@ The goal of this project is to classify sneaker images into different categories
 
 ---
 
-## Project Structure
-
-
-TensorFlow 2.x
-Keras
-Matplotlib
-Seaborn
-NumPy
-Pandas
-Scikit-learn
