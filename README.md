@@ -25,7 +25,7 @@ The goal of this project is to classify sneaker images into different categories
 
 - Python 3.x  
 - TensorFlow & Keras  
-- ResNet50 (pre-trained on ImageNet)  
+- ResNet50 
 - Matplotlib & Seaborn for visualization  
 - Scikit-learn for evaluation metrics  
 
